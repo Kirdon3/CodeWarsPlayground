@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstBatch.kyu6", "XUnitTestProject1\FirstBatch.kyu6.csproj", "{DBD2ADDF-13E6-4538-B5F8-91CC95907F73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstBatch.kyu6", "Projects\FirstBatch.kyu6.csproj", "{DBD2ADDF-13E6-4538-B5F8-91CC95907F73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
