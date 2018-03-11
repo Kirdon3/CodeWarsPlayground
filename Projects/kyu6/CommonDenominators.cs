@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using Xunit;
 
-namespace kyu6
+namespace kyu5
 {
     public class CommonDenominators
     {

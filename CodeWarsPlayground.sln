@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstBatch.kyu6", "Projects\FirstBatch.kyu6\FirstBatch.kyu6.csproj", "{DBD2ADDF-13E6-4538-B5F8-91CC95907F73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kyu5", "Projects\kyu6\kyu5.csproj", "{193D51C7-454E-4F60-B074-09C5ED3EA8EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kyu5", "Projects\kyu6\kyu5.csproj", "{193D51C7-454E-4F60-B074-09C5ED3EA8EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
